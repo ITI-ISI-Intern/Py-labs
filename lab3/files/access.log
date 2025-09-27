@@ -1,0 +1,10 @@
+2025-09-26 10:15:23 INFO User john.doe@example.com logged in successfully",
+2025-09-26 10:16:45 ERROR Invalid login attempt from admin@company.org",
+2025-09-26 10:17:12 INFO Registration from sarah.smith@gmail.com completed",
+2025-09-26 10:18:33 WARN Password reset requested by invalid-email-format",
+2025-09-26 10:19:41 INFO User mike.jones@university.edu accessed dashboard",
+2025-09-26 10:20:55 ERROR Failed login from not-an-email-address",
+2025-09-26 10:21:18 INFO Newsletter sent to lisa.brown@yahoo.com",
+2025-09-26 10:22:37 INFO Support ticket from customer@support.co.uk created",
+2025-09-26 10:23:44 WARN Suspicious activity from @invalid.domain",
+2025-09-26 10:24:12 INFO User alex.wilson@tech

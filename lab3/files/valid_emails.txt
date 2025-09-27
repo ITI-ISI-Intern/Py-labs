@@ -1,0 +1,8 @@
+sarah.smith@gmail.com
+mike.jones@university.edu
+admin@company.org
+lisa.brown@yahoo.com
+john.doe@example.com
+customer@support.co.uk
+
+Total unique valid emails found: 6
